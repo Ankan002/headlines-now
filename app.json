@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "headlines-now",
+    "name": "Headlines Now",
     "slug": "headlines-now",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -25,7 +25,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.ankan2002.headlinesnow"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
